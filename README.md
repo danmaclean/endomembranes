@@ -19,8 +19,8 @@ Our algorithms (in .script format) can be freely obtained from http://sourceforg
 
 ### 3. Software Implementation 
 **Version**: 	current stable work versions: 
-  ⋅⋅* For old Opera Operating System (OS below version 2.0), V3.9
-  ⋅⋅* For recently upgraded Opera OS (version 2.0 onwards), V4.0
+  * For old Opera Operating System (OS below version 2.0), V3.9
+  * For recently upgraded Opera OS (version 2.0 onwards), V4.0
 
 **Authors**: 	Dr Ji Zhou and Dr Dan MacLean, The Sainsbury Laboratory, Norwich Research Park, Norwich, UK (NR4 7UH)
 
@@ -28,4 +28,4 @@ Our algorithms (in .script format) can be freely obtained from http://sourceforg
 
 **Sample datasets & Acapella coding**: See tutorial.md
 
-
+**Contact details**: ji.zhou@tgac.ac.uk; dan.maclean@tsl.ac.uk  
